@@ -1,0 +1,9 @@
+C:\Users\wille\Desktop\_TC\_Scripts\_PROJECT_APPS\MathProgram\MathProgram\bin\Release\MathProgram.exe
+C:\Users\wille\Desktop\_TC\_Scripts\_PROJECT_APPS\MathProgram\MathProgram\bin\Release\MathProgram.pdb
+C:\Users\wille\Desktop\_TC\_Scripts\_PROJECT_APPS\MathProgram\MathProgram\bin\Release\MathProgram.xml
+C:\Users\wille\Desktop\_TC\_Scripts\_PROJECT_APPS\MathProgram\MathProgram\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wille\Desktop\_TC\_Scripts\_PROJECT_APPS\MathProgram\MathProgram\obj\Release\MathProgram.Resources.resources
+C:\Users\wille\Desktop\_TC\_Scripts\_PROJECT_APPS\MathProgram\MathProgram\obj\Release\MathProgram.vbproj.GenerateResource.Cache
+C:\Users\wille\Desktop\_TC\_Scripts\_PROJECT_APPS\MathProgram\MathProgram\obj\Release\MathProgram.exe
+C:\Users\wille\Desktop\_TC\_Scripts\_PROJECT_APPS\MathProgram\MathProgram\obj\Release\MathProgram.xml
+C:\Users\wille\Desktop\_TC\_Scripts\_PROJECT_APPS\MathProgram\MathProgram\obj\Release\MathProgram.pdb
