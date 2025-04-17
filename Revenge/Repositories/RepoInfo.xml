@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RepositoriesInfo>
+    <Repository Name="Art" Path="/Art/"/>
+    <Repository Name="Audio" Path="/Audio/"/>
+    <Repository Name="QA" Path="/QA/"/>
+    <Repository Name="Reference" Path="/Reference/"/>
+</RepositoriesInfo>
