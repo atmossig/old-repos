@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/css_custom_players/black2006/bo/goggles"
+	"$nocull" 1
+	"$nodecal" 1
+	"$translucent" 1
+}
